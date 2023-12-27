@@ -61,10 +61,10 @@ FortiGate is a robust network security appliance designed to protect and secure 
 ## Project Structure
 
 - **`packet generation/`:** Contains Scapy code snippets for packet generation.
-- **`fortigate_logs/`:** Includes downloaded FortiGate textfile logs, Code for conversion to CSV and the converted CSV 
+- **`Local Network Traffic Data/`:** Includes downloaded FortiGate textfile logs, Code for conversion to CSV and the converted CSV 
                          Log file for further analysis.
 - **`Visualizations/`:** Stores generated plots and graphs.
-- **`graph_generation_codes/`:** Houses code snippets for visualization generation.
+- **`Graph Generation/`:** Houses code snippets for visualization generation.
 
 Feel free to explore specific folders for detailed code implementations and data files.
 
